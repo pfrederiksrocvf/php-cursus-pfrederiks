@@ -1,2 +1,7 @@
+<pre>
 <?php
-print_r($_SERVER);
+echo "Disabled";
+// print_r($_SERVER);
+// print_r($_ENV);
+?>
+</pre>
